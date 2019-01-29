@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="controllers.HomeControllerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-01-22T13:06:26" hostname="Amritendu.local" time="3.313">
+  <properties/>
+  <testcase name="testIndex" classname="controllers.HomeControllerTest" time="3.313"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
