@@ -1,0 +1,1 @@
+This is a play server app I built to test all my python API. This is written in scala and java both. Import this project in Intellij. I will upload a detailed documentation  to run this app in future.
